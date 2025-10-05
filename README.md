@@ -10,7 +10,6 @@ Esse espaço também serve para compartilhar conhecimento e trocar experiências
 
 ## 🔖 Organização do Repositório  
 Os conteúdos serão separados em pastas de acordo com cada tema abordado na disciplina, como:  
-- Estruturas básicas  
 - Condicionais e laços  
 - Funções e recursão  
 - Ponteiros e alocação dinâmica  

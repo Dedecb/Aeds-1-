@@ -11,7 +11,7 @@ Esse espaço também serve para compartilhar conhecimento e trocar experiências
 ## 🔖 Organização do Repositório  
 Os conteúdos serão separados em pastas de acordo com cada tema abordado na disciplina, como:  
 - Condicionais e laços  
-- Funções e recursão  
+- Funções e procedimentos  
 - Ponteiros e alocação dinâmica  
 - Vetores, matrizes e strings  
 - Arquivos e structs  

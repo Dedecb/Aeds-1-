@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! 🚀
 Sou **André Luiz** e aqui registro meu aprendizado na disciplina de *Algoritmos e Estruturas de Dados I* da PUC Minas.  
 
 A proposta é simples: cada tópico ou matéria terá sua própria pasta, organizada para acompanhar minha evolução e facilitar futuras consultas.  
-Esse espaço também serve para compartilhar conhecimento e trocar experiências com quem está estudando programação. ✨  
+Esse espaço também serve para compartilhar conhecimento e trocar experiências com quem está estudando programação.   
 
 ---
 
